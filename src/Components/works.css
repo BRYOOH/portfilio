@@ -1,0 +1,24 @@
+.o{
+    padding: 50px 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.o-text{
+    width: 65%;
+
+}
+.o-title{
+    font-size: 50px;
+    font-weight: 600;
+}
+.o-intro{
+    margin: 20px 0px;
+}
+.o-pro{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    }
